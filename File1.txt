@@ -4,8 +4,7 @@ Some more changes done for diff
 Changes done for bug1 fix
 Changes done by teammate
 Changes done for fixing bug2
-
 Some changes done in master
-
 Changes done to push data from local master
 Changes done in File1 in remote repository
+Changes done in File1
